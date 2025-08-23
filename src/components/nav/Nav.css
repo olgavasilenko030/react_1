@@ -1,0 +1,15 @@
+nav>ul
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-image: linear-gradient(to right, #bda4ff, #4823a9);
+    padding: 25px;
+    margin: 0;
+}
+nav > ul > li >a
+{
+    color: black;
+    font-size: 24px;
+
+}
