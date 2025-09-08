@@ -1,5 +1,19 @@
 article
 {
     background-color: rgb(64, 64, 64);
-    color: rgb(211, 211, 211);
+    color: rgb(13, 13, 13);
+}
+.app
+{
+    display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-flow: wrap;
+}
+.card
+{
+    width: 360px;
+    height: 720px;
+    background-color: #6b54a6;
+    margin-top: 10px;
 }
