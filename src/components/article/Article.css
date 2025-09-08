@@ -6,9 +6,9 @@ article
 .app
 {
     display: flex;
-  width: 100%;
-  justify-content: space-between;
-  flex-flow: wrap;
+    width: 100%;
+    justify-content: space-between;
+    flex-flow: wrap;
 }
 .card
 {
@@ -16,4 +16,11 @@ article
     height: 720px;
     background-color: #6b54a6;
     margin-top: 10px;
+    
+}
+.card .info
+{
+    width: 100px;
+    height: 100px;
+    align-items: center;
 }
